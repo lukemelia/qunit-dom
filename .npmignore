@@ -3,7 +3,6 @@
 /config/ember-try.js
 /coverage
 /dist/ember
-/lib/
 /tests
 /tmp
 **/.gitkeep

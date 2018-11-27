@@ -23,6 +23,7 @@
     "changelog": "lerna-changelog",
     "docs": "yarn build && documentation build dist/qunit-dom.js --config documentation.yml -f md -o API.md",
     "prepublish": "rollup -c",
+    "prepare": "rollup -c",
     "test": "jest",
     "test:coverage": "jest --coverage",
     "test:ember": "ember test",
